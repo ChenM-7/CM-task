@@ -1,5 +1,3 @@
-theme: jekyll-theme-merlot
-
 # Welcome to CM's dear-data page!
 
 ## 这是陈铭同学的dear-data作业页面！
