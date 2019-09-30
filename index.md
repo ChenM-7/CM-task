@@ -425,20 +425,15 @@
    </tr>
 </table>
 
-1. Numbered
-2. List【此处用来回答问题】
+### 提问：你认为日常生活中哪些数据是被搜集的？被谁搜集了？
+- 个人数据
+1. 手机号——众多需要手机号注册的软件和网站
+2. 通讯录信息和短信内容——电信运营商、以需要“注册/登录验证码”为名获得通讯录和短信权限的各种APP
+3. 位置信息——百度地图、谷歌地图等地图软件，keep等记录跑步轨迹的运动APP
+4. 消费数据——淘宝、支付宝等购物和财务管理APP
 
-**Bold** and _Italic_ and `Code` text
+- “公共”数据
+1. 交通拥挤程度、车辆行驶信息等数据——交通部门的路面监控摄像头
+2. 公共场合中人们的行为和肖像——来自众多其他公共和私人的监控摄像头
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChenM-7/CM-task/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 事实上，不论是“个体”还是“公共”，只要与互联网相关联或暴露在公共空间中，就有被搜集的可能，或者说，就已经正在被搜集。
