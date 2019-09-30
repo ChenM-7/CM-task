@@ -5,7 +5,7 @@
 
 ### 关于数据的收集
 本来想记录自己一周内走神的情况，但这数据太细碎而且难以准确记录（~~走神了哪还记得做数据~~ 叹气），记录了两天后作罢。然后在ddl扎堆的惨状下发现自己原来经常在叹气，于是打算记录下自己五天内有关“叹气”的数据，包括时间、地点、原因、感受、是独自一人还是和人交流等等，最后在可视化时选择了时间、原因和感受三个角度作最终呈现。
-表格如下：
+<br>表格如下：
 
 
 <table class="table table-bordered table-striped table-condensed">
@@ -342,8 +342,54 @@
    </tr>
 </table>
 
-- Bulleted
-- List
+**注：**
+<table class="table table-bordered table-striped table-condensed">
+   <tr>
+      <td>感受</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>1</td>
+      <td>无意识</td>
+   </tr>
+   <tr>
+      <td>2</td>
+      <td>无奈</td>
+   </tr>
+   <tr>
+      <td>3</td>
+      <td>发愁</td>
+   </tr>
+   <tr>
+      <td>4</td>
+      <td>疲倦</td>
+   </tr>
+   <tr>
+      <td>5</td>
+      <td>烦躁</td>
+   </tr>
+   <tr>
+      <td>6</td>
+      <td>后悔</td>
+   </tr>
+   <tr>
+      <td>7</td>
+      <td>不愿面对</td>
+   </tr>
+   <tr>
+      <td>8</td>
+      <td>轻松</td>
+   </tr>
+   <tr>
+      <td>9</td>
+      <td>迷茫</td>
+   </tr>
+   <tr>
+      <td></td>
+   </tr>
+</table>
+
+
 
 1. Numbered
 2. List【此处用来回答问题】
