@@ -5,12 +5,11 @@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
+### 关于数据的收集
+'''
+本来想记录自己一周内走神的情况，但这数据太细碎而且难以准确记录（~~走神了哪还记得做数据~~ 叹气）
+'''
 - Bulleted
 - List
 
