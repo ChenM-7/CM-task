@@ -389,7 +389,36 @@
    </tr>
 </table>
 
-
+<table class="table table-bordered table-striped table-condensed">
+   <tr>
+      <td>原因</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>1</td>
+      <td>课程&作业</td>
+   </tr>
+   <tr>
+      <td>2</td>
+      <td>《新闻视野》选题</td>
+   </tr>
+   <tr>
+      <td>3</td>
+      <td>关于未来</td>
+   </tr>
+   <tr>
+      <td>4</td>
+      <td>私人事务</td>
+   </tr>
+   <tr>
+      <td>5</td>
+      <td>一些琐碎的事（其他）</td>
+   </tr>
+   <tr>
+      <td>6</td>
+      <td>无原因</td>
+   </tr>
+</table>
 
 1. Numbered
 2. List【此处用来回答问题】
