@@ -6,21 +6,7 @@
 ### 关于数据的收集
 本来想记录自己一周内走神的情况，但这数据太细碎而且难以准确记录（~~走神了哪还记得做数据~~ 叹气），记录了两天后作罢。然后在ddl扎堆的惨状下发现自己原来经常在叹气，于是打算记录下自己五天内有关“叹气”的数据，包括时间、地点、原因、感受、是独自一人还是和人交流等等，最后在可视化时选择了时间、原因和感受三个角度作最终呈现。
 表格如下：
-| 日期 | 时间 | 具体情况 | 原因 | 感受 |
-| :-: | :-: | :-: | :-: | :-: |
-| 09.24 | 9:50 | 挂完衣服，无意识叹气 | 6 | 1 |
-|09.24|9:21|寝室床上，一动不动写了好一会python|1|1|
-|09.24|10:00|收拾好东西准备去上课|5|7|
-|09.24|10:08|数新教室连不上WiFi|5|2|
-|09.24|11:09|想到李煜的作业|1|2|
-|09.24|13:47|和室友讨论买话剧票|5|5|
-|09.24|16:25|在图书馆找《新闻视野》选题，未果|2|3|
-|09.24|17:04|上知乎，继续找选题……|2|3|
-|09.24|18:55|继续找选题……|2|3|
-|09.24|19:03|继续找选题……|2|4|
-|09.24|19:07|继续找选题 qwq太难了|2|4|
-|09.24|19:24|破事一堆|5|5|
-|09.24|19:32|再次为选题流泪发愁|2|3|
+
 
 <table class="table table-bordered table-striped table-condensed">
    <tr>
@@ -29,12 +15,7 @@
       <td>具体情况</td>
       <td>原因</td>
       <td>感受</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.24</td>
@@ -42,12 +23,7 @@
       <td>寝室床上，一动不动写了好一会python</td>
       <td>1</td>
       <td>1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.24</td>
@@ -55,12 +31,7 @@
       <td>想到李煜的作业</td>
       <td>1</td>
       <td>2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+ 
    </tr>
    <tr>
       <td>9.24</td>
@@ -68,12 +39,7 @@
       <td>在图书馆找《新闻视野》选题，未果</td>
       <td>2</td>
       <td>3</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.24</td>
@@ -81,12 +47,7 @@
       <td>上知乎，继续找选题……</td>
       <td>2</td>
       <td>3</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.24</td>
@@ -94,12 +55,7 @@
       <td>继续找选题……</td>
       <td>2</td>
       <td>3</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.24</td>
@@ -107,12 +63,7 @@
       <td>再次为选题流泪发愁</td>
       <td>2</td>
       <td>3</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.24</td>
@@ -120,12 +71,7 @@
       <td>继续找选题……</td>
       <td>2</td>
       <td>4</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.24</td>
@@ -133,12 +79,7 @@
       <td>继续找选题 qwq太难了</td>
       <td>2</td>
       <td>4</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.24</td>
@@ -146,12 +87,7 @@
       <td>数新教室连不上WiFi</td>
       <td>5</td>
       <td>2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.24</td>
@@ -159,12 +95,7 @@
       <td>和室友讨论买话剧票</td>
       <td>5</td>
       <td>5</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.24</td>
@@ -172,12 +103,7 @@
       <td>破事一堆</td>
       <td>5</td>
       <td>5</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.24</td>
@@ -185,12 +111,7 @@
       <td>收拾好东西准备去上课</td>
       <td>5</td>
       <td>7</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.24</td>
@@ -198,12 +119,7 @@
       <td>挂完衣服，无意识叹气</td>
       <td>6</td>
       <td>1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.25</td>
@@ -211,12 +127,7 @@
       <td>回寝室路上想到传播双语的作业 太难了</td>
       <td>1</td>
       <td>7</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.25</td>
@@ -224,12 +135,7 @@
       <td>谈到视野的工作安排</td>
       <td>3</td>
       <td>9</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.25</td>
@@ -237,12 +143,7 @@
       <td>继续谈视野，不知道写稿有什么意义</td>
       <td>3</td>
       <td>9</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.25</td>
@@ -250,12 +151,7 @@
       <td>第三次找老师签大创资料未果</td>
       <td>4</td>
       <td>4</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.25</td>
@@ -263,12 +159,7 @@
       <td>码推送</td>
       <td>4</td>
       <td>4</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.25</td>
@@ -276,12 +167,7 @@
       <td>终于要把推送做好了！</td>
       <td>4</td>
       <td>8</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.25</td>
@@ -289,12 +175,7 @@
       <td>传概下课</td>
       <td>6</td>
       <td>1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.25</td>
@@ -302,12 +183,7 @@
       <td>和妈妈打完电话</td>
       <td>6</td>
       <td>1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.26</td>
@@ -315,12 +191,7 @@
       <td>下课时想到还有李煜的论文，被ddl压垮</td>
       <td>1</td>
       <td>7</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.26</td>
@@ -328,12 +199,7 @@
       <td>上知乎找选题qwq</td>
       <td>2</td>
       <td>7</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.26</td>
@@ -341,12 +207,7 @@
       <td>想起还要报六级</td>
       <td>3</td>
       <td>7</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.26</td>
@@ -354,12 +215,7 @@
       <td>后悔自己浪费了一下午，巨后悔</td>
       <td>4</td>
       <td>6</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.26</td>
@@ -367,12 +223,7 @@
       <td>想到第二天还要早起</td>
       <td>4</td>
       <td>7</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.26</td>
@@ -380,12 +231,7 @@
       <td>给电脑插上充电器</td>
       <td>6</td>
       <td>1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.27</td>
@@ -393,12 +239,7 @@
       <td>查找rstudio，打错字</td>
       <td>1</td>
       <td>2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.27</td>
@@ -406,12 +247,7 @@
       <td>和一个没认出来的同学说自己来开会</td>
       <td>2</td>
       <td>2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.27</td>
@@ -419,12 +255,7 @@
       <td>找选题，看了眼时间</td>
       <td>2</td>
       <td>3</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.27</td>
@@ -432,12 +263,7 @@
       <td>继续为找选题发愁</td>
       <td>2</td>
       <td>3</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.27</td>
@@ -445,12 +271,7 @@
       <td>没重视G项加分</td>
       <td>3</td>
       <td>6</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.27</td>
@@ -458,12 +279,7 @@
       <td>在淘宝买完东西</td>
       <td>4</td>
       <td>1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.27</td>
@@ -471,12 +287,7 @@
       <td>上课脖子酸伸懒腰</td>
       <td>5</td>
       <td>1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.27</td>
@@ -484,12 +295,7 @@
       <td>吃完饭起身时</td>
       <td>6</td>
       <td>1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.28</td>
@@ -497,12 +303,7 @@
       <td>设计dear data 可视化</td>
       <td>1</td>
       <td>1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.28</td>
@@ -510,12 +311,7 @@
       <td>设计dear data 可视化 头秃</td>
       <td>1</td>
       <td>1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+ 
    </tr>
    <tr>
       <td>9.28</td>
@@ -523,12 +319,7 @@
       <td>剪片找空镜</td>
       <td>4</td>
       <td>5</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.28</td>
@@ -536,12 +327,7 @@
       <td>度过无忧无虑的下午</td>
       <td>4</td>
       <td>8</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td>9.28</td>
@@ -549,12 +335,7 @@
       <td>和室友抱抱</td>
       <td>4</td>
       <td>8</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+
    </tr>
    <tr>
       <td></td>
