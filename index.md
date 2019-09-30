@@ -1,11 +1,7 @@
 # Welcome to CM's dear-data page!
 
-You can use the [editor on GitHub](https://github.com/ChenM-7/CM-task/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+### 让我们先来看看陈铭画了两个小时的明信片！
+【此处应有图片ww】
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -19,7 +15,7 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-2. List
+2. List【此处用来回答问题】
 
 **Bold** and _Italic_ and `Code` text
 
