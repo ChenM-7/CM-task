@@ -1,13 +1,16 @@
 # Welcome to CM's dear-data page!
 
-### 让我们先来看看陈铭画了两个小时的明信片！
-【此处应有图片ww】
+## 这是陈铭同学的dear-data作业页面！
+
+### 让我们先来看看手绘明信片！
+
 ![dear-data-1](https://github.com/ChenM-7/CM-task/blob/master/dear-data-1.jpg)
+~~（我也不敢相信画这点手绘居然花了两个小时）~~
 ![dear-data-2](https://github.com/ChenM-7/CM-task/blob/master/dear-data-2.jpg)
 
 ### 关于数据的收集
 - 本来想记录自己一周内走神的情况，但这数据太细碎而且难以准确记录（~~走神了哪还记得做数据~~ 叹气），记录了两天后作罢。然后在ddl扎堆的惨状下发现自己原来经常在叹气，于是打算记录下自己五天内有关“叹气”的数据，包括时间、地点、原因、感受、是独自一人还是和人交流等等，最后在可视化时选择了时间、原因和感受三个角度作最终呈现。
-- <br>表格如下：
+- 表格如下：
 
 
 <table class="table table-bordered table-striped table-condensed">
