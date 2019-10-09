@@ -108,10 +108,10 @@
 <table class="table table-bordered table-striped table-condensed">
    <tr>
       <td>年份</td>
-      <td>第一季度增速（亿元）</td>
-      <td>第二季度增速（亿元）</td>
-      <td>第三季度增速（亿元）</td>
-      <td>第四季度增速（亿元）</td>
+      <td>第一季度增速</td>
+      <td>第二季度增速</td>
+      <td>第三季度增速</td>
+      <td>第四季度增速</td>
    </tr>
    <tr>
       <td>2018</td>
