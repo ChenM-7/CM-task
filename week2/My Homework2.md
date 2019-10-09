@@ -76,29 +76,35 @@
 ### 数据页面
 
 <p align="center">
-	<img src="https://github.com/ChenM-7/CM-task/blob/master/week2/1-national-statistics.png" alt="Sample"  width="250" height="140">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week2/1-national-statistics.png" alt="Sample"  width="500" height="300">
 	<p align="center">
 		<em>国家统计局数据收集页面</em>
 	</p>
 </p>
-————————————————
-版权声明：本文为CSDN博主「菜鸟_伊织」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/lovechris00/article/details/82379382
 
-  下图为整理所得的2011-2018年各季度DGP（不变价）
-【图2】
+<p align="center">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week2/2-excel.png" alt="Sample"  width="500" height="280">
+	<p align="center">
+		<em>整理所得的2011-2018年各季度DGP（不变价）</em>
+	</p>
+</p>
 
 ### 计算步骤
   **增速**，一般指**同比增长率**
 
   **计算公式**：同比增速=（当期-去年同期）/去年同期x100%
 
-+ 计算2012-2018年各季度GDP同比增长量：**各季度增长量 = 当年季度GDP - 去年同一季度GDP**
-【图3】
+1. 计算2012-2018年各季度GDP同比增长量：**各季度增长量 = 当年季度GDP - 去年同一季度GDP**
+<p align="center">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week2/3-excel.png" alt="Sample"  width="660" height="250">
+	<p align="center">
+		<em>如图所示</em>
+	</p>
+</p>
 
-+ 计算2012-2018年各季度GDP增速：**各季度增速=各季度增长量/去年同一季度x100%**
+2. 计算2012-2018年各季度GDP增速：**各季度增速=各季度增长量/去年同一季度x100%**
 
-  计算结果保留小数点后两位，如下表：【插入表格】
+  计算结果保留小数点后两位，如下表：
 <table class="table table-bordered table-striped table-condensed">
    <tr>
       <td>年份</td>
