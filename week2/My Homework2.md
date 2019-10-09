@@ -1,6 +1,6 @@
 # <center> This is CM's homework for the second week！ </center>
 # <center> 这是陈铭同学第二周的课程作业！o( =•ω•= )m </center>
-## 1.我国有关公共数据开放的条例或法规列举：
+## 1. 我国有关公共数据开放的条例或法规列举：
 
 - [《中华人民共和国政府信息公开条例》（国令第711号）](http://www.gov.cn/zhengce/content/2019-04/15/content_5382991.htm)
 
@@ -44,7 +44,7 @@
   
   发布时间：2018-01-16
 
-## 国内外政府开放数据平台列举：
+## 2. 国内外政府开放数据平台列举：
 ### 国内
 #### *国家级平台*
 - [国家统计局](http://www.stats.gov.cn/)
@@ -63,7 +63,7 @@
 - [数据美国（data USA）](https://datausa.io/)
 - [英国国家统计局（Office for National Statistics)](https://www.ons.gov.uk/)
 
-## 2012-2018年各季度GDP增速：
+## 3. 2012-2018年各季度GDP增速：
 ### 统计指标
 - **国内生产总值(不变价) 当季值(亿元)**
   >**国内生产总值(GDP)**
