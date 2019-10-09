@@ -47,9 +47,14 @@
   发布时间：2018-01-16
 
 ## 国内外政府开放数据平台列举：
-#### 国内
-##### -国家级平台-
+### 国内
+#### *国家级平台*
 - [国家统计局](http://www.stats.gov.cn/)
 - [中国政府网的数据统计平台](http://www.gov.cn/shuju/)
 - [一带一路统计数据库](http://ydyl.cei.cn/)  来源：中国经济信息网
 - [中国环境保护数据库](http://hbk.cei.cn/aspx/Left_DB.aspx?ID=5)
+#### *省级平台*
+- [上海市大数据中心](http://www.shanghai.gov.cn/nw2/nw2314/nw2319/nw32905/nw42999/nw43035/nw44524/) 来源：上海市政府网
+- [成都市公共数据开放平台](http://www.cddata.gov.cn/)
+- [浙江数据开放平台](http://data.zjzwfw.gov.cn/jdop_front/index.do)
+- [香港数据库集](https://hkg.databasesets.com/)
