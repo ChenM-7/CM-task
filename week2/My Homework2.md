@@ -78,14 +78,14 @@
 <p align="center">
 	<img src="https://github.com/ChenM-7/CM-task/blob/master/week2/1-national-statistics.png" alt="Sample"  width="500" height="300">
 	<p align="center">
-		<em>国家统计局数据收集页面</em>
+		<em> 国家统计局数据收集页面 </em>
 	</p>
 </p>
 
 <p align="center">
 	<img src="https://github.com/ChenM-7/CM-task/blob/master/week2/2-excel.png" alt="Sample"  width="500" height="280">
 	<p align="center">
-		<em>整理所得的2011-2018年各季度DGP（不变价）</em>
+		<em> 整理所得的2011-2018年各季度DGP（不变价） </em>
 	</p>
 </p>
 
@@ -98,7 +98,7 @@
 <p align="center">
 	<img src="https://github.com/ChenM-7/CM-task/blob/master/week2/3-excel.png" alt="Sample"  width="660" height="250">
 	<p align="center">
-		<em>如图所示</em>
+		<em> 如图所示 </em>
 	</p>
 </p>
 
@@ -163,3 +163,5 @@
       <td>8.13%</td>
    </tr>
 </table>
+
+### 以上就是本次作业的全部内容 ヾ(￣▽￣)Bye~Bye~
