@@ -1,5 +1,5 @@
-# <center>This is CM's homework for the second week！</center>
-# <center>这是陈铭同学第二周的课程作业！o( =•ω•= )m</center>
+# <center> This is CM's homework for the second week！ </center>
+# <center> 这是陈铭同学第二周的课程作业！o( =•ω•= )m </center>
 ## 1.我国有关公共数据开放的条例或法规列举：
 
 - [《中华人民共和国政府信息公开条例》（国令第711号）](http://www.gov.cn/zhengce/content/2019-04/15/content_5382991.htm)
