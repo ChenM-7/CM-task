@@ -74,8 +74,16 @@
   *[（国家统计局指标解释来源）](http://www.stats.gov.cn/tjsj/zbjs/201310/t20131029_449553.html)*
 
 ### 数据页面
-  下图为国家统计局数据收集页面
-【图1】
+
+<p align="center">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week2/1-national-statistics.png" alt="Sample"  width="250" height="140">
+	<p align="center">
+		<em>国家统计局数据收集页面</em>
+	</p>
+</p>
+————————————————
+版权声明：本文为CSDN博主「菜鸟_伊织」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/lovechris00/article/details/82379382
 
   下图为整理所得的2011-2018年各季度DGP（不变价）
 【图2】
