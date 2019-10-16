@@ -1,4 +1,6 @@
-## 国内外免费图表制作工具整理
+## 这是第三周的作业，主要分为四块内容：可视化工具整理、数据集、对数据集的可视化呈现、使用体会
+
+## 1.国内外免费图表制作工具整理
 - RAWGraphs [https://rawgraphs.io/](https://rawgraphs.io/)
   
   【01】
@@ -15,4 +17,6 @@
 - Datawrapper [https://www.datawrapper.de/](https://www.datawrapper.de/)
 
   【04】在线可视化工具
+  
+  除了图表还可以制作交互式地图！
 
