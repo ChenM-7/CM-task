@@ -19,4 +19,6 @@
   【04】在线可视化工具
   
   除了图表还可以制作交互式地图！
+  
+  [图](https://www.datawrapper.de/_/OCRly/)
 
