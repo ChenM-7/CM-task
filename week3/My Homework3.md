@@ -129,12 +129,15 @@
 
   链接：[1990-2016年亚美尼亚男女性自杀人数统计](https://infogram.com/yellow-negative-1hnq41mr5rzk43z?live)（有交互效果）
 
-  效果如下（截图）：【图表3】
+  效果如下（截图）：
+  
+  ![图表3](https://github.com/ChenM-7/CM-task/blob/master/week3/%E5%9B%BE%E8%A1%A83-%E6%80%A7%E5%88%AB%20infogram.png)
 
 ### （五）Chartblocks-条形图
 
 在Excel中分别计算出亚美尼亚每年的自杀人数，导入**Chartblocks**进行可视化，导出图表如下：
-【图表4】
+
+![图表4](https://github.com/ChenM-7/CM-task/blob/master/week3/%E5%9B%BE%E8%A1%A84-%E4%BA%BA%E6%95%B0%20Chartblocks.png)
 
 链接：[1990-2016年亚美尼亚自杀死亡人数统计](https://public.chartblocks.com/c/5da6a1023ba0f61240611208?t=8672a1f59b84f46)（有交互效果）
 
@@ -142,7 +145,7 @@
 
 将亚美尼亚每年的自杀人数和人均GDP结合起来，导入**RAWGraphs**进行可视化。由于涉及年份、人数、人均GDP三个变量，所以采用散点图的方式，横轴表示年份，纵轴表示自杀人数，散点的颜色和大小表示人均GDP，颜色越深、散点越大，人均GDP越高。
 
-【12】
+![RAWGraphs设置](https://github.com/ChenM-7/CM-task/blob/master/week3/12%20rawgraphs%E8%AE%BE%E7%BD%AE.png)
 
 导出图表如下：【图表5】
 
