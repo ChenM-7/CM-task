@@ -86,7 +86,13 @@
 
   kaggle对usability的描述如下，符合越多项，可用程度越高。
   
-  ![数据集易用性](https://github.com/ChenM-7/CM-task/blob/master/week3/08%20%E6%98%93%E7%94%A8%E6%80%A71.png)
+<p align="center">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week3/08%20%E6%98%93%E7%94%A8%E6%80%A71.png" alt="Sample"  width="300" height="600">
+	<p align="center">
+		<em> 数据的集易用性 </em>
+	</p>
+</p>
+  
 
   本数据集的易用性为7.1，在kaggle中大概处于中等偏上的位置，虽然没有达到最高（10.0），但一方面我觉得用来做本次的数据呈现已经足够，另一方面我个人对这一话题的也很感兴趣hhh，两相结合最终选择了这个“自杀数据集”。
   
