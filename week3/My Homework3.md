@@ -9,31 +9,37 @@
 
   图表类型很丰富，除了常见的柱状图、散点图外，还包括其他一些很神奇的图表（如下图）
   
+  除了可以生成常规的png格式图片，还可以生成SVG代码（！），便于直接复制到网页代码中呈现可视化效果。
+  
   ![Rawgraphs图表](https://github.com/ChenM-7/CM-task/blob/master/week3/01%20Rawgraphs.png)
   
-  除了可以生成常规的png格式图片，还可以生成SVG代码（！），便于直接复制到网页代码中呈现可视化效果。
   
 - **ChartBlocks** [https://www.chartblocks.com/en/](https://www.chartblocks.com/en/)
   
-  【03】
+  ![Chartblocks页面](https://github.com/ChenM-7/CM-task/blob/master/week3/03%20Chartblocks.png)
   
-- **Datawrapper** [https://www.datawrapper.de/](https://www.datawrapper.de/)（在线）
+  
+- **Datawrapper** [https://www.datawrapper.de/](https://www.datawrapper.de/)
 
-  【04】
-  
   除了图表还可以制作交互式地图！无法免费下载，但可以用网页形式分析。
   
-- **Infogram** [https://infogram.com/](https://infogram.com/)（在线）
+  ![Datawrapper页面](https://github.com/ChenM-7/CM-task/blob/master/week3/04%20Datawrapper.png)
   
-  除了可以制作图表外，还有多种信息图表排版可供选择！（太方便了吧！）
   
-  【图05】
+  
+- **Infogram** [https://infogram.com/](https://infogram.com/)
+  
+  除了可以制作图表外，还有多种信息图表排版可供选择！（忍不住感慨：太方便了吧！）
+  
+  无法免费下载，但可以以网页形式分享，保持了交互的特性！
+  
+  ![infogram页面](https://github.com/ChenM-7/CM-task/blob/master/week3/05%20infogram.png)
     
- 无法免费下载，但可以以网页形式分享，保持了交互的特性！
-  
+ 
+### 软件
 - **Tableau**
   
-  可以免费申请学生版，操作比前面的在线工具更加复杂，但功能也更强大。
+  可以免费申请学生版，操作（自我感觉）比前面的在线工具更加复杂，但功能也更强大。
   
 - **Python**
 
@@ -41,7 +47,7 @@
 
 - **D3.js**
 
-   一个资源丰富的开源的JavaScript函数库，从上一届师哥师姐了解到，他们的很多作品可视化的实现都少不了D3.js的帮助。
+   一个资源丰富的开源的JavaScript函数库，从上一届师哥师姐了解到，他们的很多作品可视化的实现都少不了D3.js。（估计这也是我未来要啃的一个大头）
 
 - **Echartshttps**[www.echartsjs.com/zh/index.html](www.echartsjs.com/zh/index.html)
 
@@ -51,9 +57,11 @@
 
   Excel虽然看起来很朴素（？），但也是一款很实在的图表制作软件！（大一不会做好看的数据图，那时候写社会调查报告时用的图表就都来自Excel hhhh)
   
-- **AI+PS**
+- **Adobe系列：AI+PS、AE**
 
-  可以直接用来做图表，也可以把从其可视化工具（如tableau）中做出来的图表拖进去进一步完善。
+  AI、PS可以直接用来做图表，也可以把从其可视化工具（如tableau）中做出来的图表拖进去进一步完善。
+  
+  AE则能实现动态图表的制作。
   
   
 ## 二、数据集
