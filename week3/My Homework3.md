@@ -2,10 +2,10 @@
 ## 本次作业主要分为四块内容：可视化工具整理、数据集、对数据集的可视化呈现、使用体会。
 
 ## 一、国内外免费图表制作工具整理
+### 在线
 - **RAWGraphs** [https://rawgraphs.io/](https://rawgraphs.io/)
   
-  ![]()
-    在线可视化工具
+  ![Rawgraphs页面](https://github.com/ChenM-7/CM-task/blob/master/week3/02%20Rawgraphs.png)
 
   图表类型很丰富，除了常见的柱状图、散点图外，还包括其他一些很神奇的图表（如下图）
   
@@ -15,7 +15,7 @@
   
 - **ChartBlocks** [https://www.chartblocks.com/en/](https://www.chartblocks.com/en/)
   
-  【03】在线可视化工具
+  【03】
   
 - **Datawrapper** [https://www.datawrapper.de/](https://www.datawrapper.de/)（在线）
 
