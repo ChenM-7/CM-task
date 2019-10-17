@@ -131,6 +131,7 @@
 ## 总结
 
 - **工具1：Datawrapper**
+  
   图表1：世界地图（可交互）
   
   [2012年世界自杀人数统计（部分国家）](https://www.datawrapper.de/_/TIM5U/)
@@ -140,18 +141,21 @@
   [1990-2016年亚美尼亚男女性自杀人数统计](https://www.datawrapper.de/_/OCRly/)
   
 - **工具2：Infogram**
+  
   图表3：信息图表（折线图，可交互）
   
   [1990-2016年亚美尼亚男女性自杀人数统计](https://infogram.com/yellow-negative-1hnq41mr5rzk43z?live)
 
 - **工具3：Chartblocks**
+  
   图表4：条形图（可交互）
   
   [1990-2016年亚美尼亚自杀死亡人数统计](https://public.chartblocks.com/c/5da6a1023ba0f61240611208?t=8672a1f59b84f46)
   
 - **工具4：RAWGraphs**
+  
   图表5：散点图
   【图表】
   
 ## 四、使用体会
-- 可视化世界博大精深
+- 可视化世界博大精深。这周的作业可以说是第一次正式**为我打开了摸索可视化的大门**——以前我只知道Tableau和Adobe系列的PS、AI、AE等，现在第一次发现原来还有其他这么多的可视化工具，其便捷和丰富程超乎想象
