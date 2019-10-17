@@ -87,7 +87,7 @@
   kaggle对usability的描述如下，符合越多项，可用程度越高。
   
 <p align="center">
-	<img src="https://github.com/ChenM-7/CM-task/blob/master/week3/08%20%E6%98%93%E7%94%A8%E6%80%A71.png" alt="Sample"  width="300" height="600">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week3/08%20%E6%98%93%E7%94%A8%E6%80%A71.png" alt="Sample"  width="300" height="500">
 	<p align="center">
 		<em> 数据的集易用性 </em>
 	</p>
