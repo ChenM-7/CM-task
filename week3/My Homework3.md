@@ -66,7 +66,7 @@
   
 ## 二、数据集
 
-！[数据集](https://github.com/ChenM-7/CM-task/blob/master/week3/06%20suicide%20rates.png)
+  ！[数据集](https://github.com/ChenM-7/CM-task/blob/master/week3/06%20suicide%20rates.png)
 
 **1985年至2016年自杀率概述——按年份和国家比较社会经济信息和自杀率**
 
