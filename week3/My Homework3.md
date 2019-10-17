@@ -147,7 +147,9 @@
 
 ![RAWGraphs设置](https://github.com/ChenM-7/CM-task/blob/master/week3/12%20rawgraphs%E8%AE%BE%E7%BD%AE.png)
 
-导出图表如下：【图表5】
+导出图表如下：
+
+![图表5](https://github.com/ChenM-7/CM-task/blob/master/week3/%E5%9B%BE%E8%A1%A85-GDP%20Rawgraphs2.png)
 
 ## 总结
 
@@ -176,7 +178,8 @@
 - **工具4：RAWGraphs**
   
   图表5：散点图
-  【图表】
+  
+  ![图表5](https://github.com/ChenM-7/CM-task/blob/master/week3/%E5%9B%BE%E8%A1%A85-GDP%20Rawgraphs2.png)
   
 ## 四、使用体会
 - 可视化世界博大精深。这周的作业可以说是第一次正式**为我打开了摸索可视化的大门**——以前我只知道Tableau和Adobe系列的PS、AI、AE等，现在第一次发现原来还有其他这么多的可视化工具，其便捷和丰富程度超乎想象，我做图的状态几乎都是这样的：
