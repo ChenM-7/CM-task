@@ -14,13 +14,13 @@
   
   【03】在线可视化工具
   
-3. **Datawrapper** [https://www.datawrapper.de/](https://www.datawrapper.de/)（在线）
+- **Datawrapper** [https://www.datawrapper.de/](https://www.datawrapper.de/)（在线）
 
   【04】
   
   除了图表还可以制作交互式地图！
   
-4. **Infogram** [https://infogram.com/](https://infogram.com/)（在线）
+- **Infogram** [https://infogram.com/](https://infogram.com/)（在线）
   
   除了可以制作图表外，还有多种信息图表排版可供选择！（太方便了吧！）
   
@@ -28,29 +28,29 @@
     
  无法免费下载，但可以以网页形式分享，保持了交互的特性！
   
-5. **Tableau**
+- **Tableau**
   
   可以免费申请学生版，操作比前面的在线工具更加复杂，但功能也更强大。
   
-6. **Python**
+- **Python**
 
   这就得靠码代码了，可以利用如pandas和matplotlib等库进行可视化制作。
 
-7. **D3.js**
+- **D3.js**
 
  一个资源丰富的开源的JavaScript函数库，从上一届师哥师姐了解到，他们的很多作品可视化的实现都少不了D3.js的帮助。
 
-8. **Echartshttps**[www.echartsjs.com/zh/index.html](www.echartsjs.com/zh/index.html)
+- **Echartshttps**[www.echartsjs.com/zh/index.html](www.echartsjs.com/zh/index.html)
 
  也是一个纯javascript的数据可视化库。
  
-9. **Excel**
+- **Excel**
 
   Excel虽然看起来很朴素（？），但也是一款很实在的图表制作软件了！（大一不会做写社会调查报告时用的图表就都来自Excel)
   
 ## 二、数据集选择与分析
 
-### 选择
+### - 选择
 【06】
 “1985年至2016年自杀率概述——按年份和国家比较社会经济信息和自杀率”
 
