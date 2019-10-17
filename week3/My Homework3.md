@@ -1,7 +1,7 @@
 ## 这是第三周的作业，主要分为四块内容：可视化工具整理、数据集、对数据集的可视化呈现、使用体会
 
 ## 一、国内外免费图表制作工具整理
-1. **RAWGraphs** [https://rawgraphs.io/](https://rawgraphs.io/)
+- **RAWGraphs** [https://rawgraphs.io/](https://rawgraphs.io/)
   
   【01】
     在线可视化工具
@@ -10,7 +10,7 @@
   
   除了可以生成常规的png格式图片，还可以生成SVG代码（！），便于直接复制到网页代码中呈现可视化效果。
   
-2. **ChartBlocks** [https://www.chartblocks.com/en/](https://www.chartblocks.com/en/)
+- **ChartBlocks** [https://www.chartblocks.com/en/](https://www.chartblocks.com/en/)
   
   【03】在线可视化工具
   
