@@ -166,25 +166,17 @@
 
 - **工具1：Datawrapper**
   
-  图表1：世界地图（可交互）
+  图表1：世界地图（可交互）[2012年世界自杀人数统计（部分国家）](https://www.datawrapper.de/_/TIM5U/)
   
-  [2012年世界自杀人数统计（部分国家）](https://www.datawrapper.de/_/TIM5U/)
-  
-  图表2：折线图（kejiaohu）
-  
-  [1990-2016年亚美尼亚男女性自杀人数统计](https://www.datawrapper.de/_/OCRly/)
+  图表2：折线图（kejiaohu）[1990-2016年亚美尼亚男女性自杀人数统计](https://www.datawrapper.de/_/OCRly/)
   
 - **工具2：Infogram**
   
-  图表3：信息图表（折线图，可交互）
-  
-  [1990-2016年亚美尼亚男女性自杀人数统计](https://infogram.com/yellow-negative-1hnq41mr5rzk43z?live)
+  图表3：信息图表（折线图，可交互）[1990-2016年亚美尼亚男女性自杀人数统计](https://infogram.com/yellow-negative-1hnq41mr5rzk43z?live)
 
 - **工具3：Chartblocks**
   
-  图表4：条形图（可交互）
-  
-  [1990-2016年亚美尼亚自杀死亡人数统计](https://public.chartblocks.com/c/5da6a1023ba0f61240611208?t=8672a1f59b84f46)
+  图表4：条形图（可交互）[1990-2016年亚美尼亚自杀死亡人数统计](https://public.chartblocks.com/c/5da6a1023ba0f61240611208?t=8672a1f59b84f46)
   
 - **工具4：RAWGraphs**
   
@@ -209,6 +201,12 @@
   真情实感地觉得自己需要学习的东西太多太多了，虽说是数据新闻专业，但大一大二基本都是在“新闻”领域徘徊，关于“数据”，我顶多就是摸了个边，甚至边都没探着，只是远远地看着，嗅到几丝味道，觉得“哦原来是这样”，但事实上还远远不够——每上一次可视化课、每做一次作业都会被打击一次，因为真真切切感受到我的眼界还太窄、知识储备还太不足。所以，接下来还是要冲鸭！给自己充电不能停！
 
 ## PS：
-week1-week3的文件已经按老师的要求整理好啦，每个文件里包括当周的Markdown作业和作业所用到的图片、图表等。
+- week1、week2的作业已按照老师的要求修改，老师可点击链接直接查看：
+  
+  [week1 markdown](https://github.com/ChenM-7/CM-task/blob/master/week1/My%20Homework1.md)
+  
+  [week2 markdown](https://github.com/ChenM-7/CM-task/blob/master/week2/My%20Homework2.md)
+
+- week1-week3的文件也已经按老师的要求整理好啦，每个文件里包括当周的Markdown作业和作业所用到的图片、图表等。
 
 ![14](https://github.com/ChenM-7/CM-task/blob/master/week3/14%20github%E6%96%87%E4%BB%B6%E6%95%B4%E7%90%86.png)
