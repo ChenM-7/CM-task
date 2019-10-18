@@ -1,10 +1,10 @@
 # Welcome to CM's dear-data page!
 
-
+## 这是第一周作业！
 
 ### 让我们先来看看手绘明信片！
 
-![dear-data-1](https://github.com/ChenM-7/CM-task/blob/master/dear-data-1.jpg)
+![dear-data-1](https://github.com/ChenM-7/CM-task/blob/master/week1/dear-data-1.jpg)
 ~~（我也不敢相信画这点手绘居然花了两个小时）~~
 ![dear-data-2](https://github.com/ChenM-7/CM-task/blob/master/dear-data-2.jpg)
 
