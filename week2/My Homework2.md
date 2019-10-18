@@ -167,7 +167,27 @@
 3. 这时候我们会发现一个很奇怪的地方：2016年的增长速度格外的高。这是因为在计算时用的都是不变价：
 > "2011-2015年数据按2010年价格计算，2016年及以后各季度数据按2015年价格计算。"
  
- 2016年基期发生改变，因此实际的2016年季度GDP增速应该用2015年的现价计算，重新计算后结果如下：
+   2016年基期发生改变，因此实际的2016年季度GDP增速应该用2015年的现价计算，重新计算后结果如下：
 
+<table class="table table-bordered table-striped table-condensed">
+   <tr>
+      <td>John</td>
+      <td>Smith</td>
+      <td>123 Main St.</td>
+      <td>Springfield</td>
+   </tr>
+   <tr>
+      <td>Mary</td>
+      <td>Jones</td>
+      <td>456 Pine St.</td>
+      <td>Dover</td>
+   </tr>
+   <tr>
+      <td>Jim</td>
+      <td>Baker</td>
+      <td>789 Park Ave.</td>
+      <td>Lincoln</td>
+   </tr>
+</table>
 
 ### 以上就是本次作业的全部内容 ヾ(￣▽￣)
