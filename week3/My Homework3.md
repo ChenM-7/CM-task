@@ -26,7 +26,7 @@
   
 - **Datawrapper** [https://www.datawrapper.de/](https://www.datawrapper.de/)
 
-  除了图表还可以制作交互式地图！无法免费下载，但可以用网页形式分析。
+  除了图表还可以制作交互式地图！无法免费下载，但可以用网页形式分享。
   
   ![Datawrapper页面](https://github.com/ChenM-7/CM-task/blob/master/week3/04%20Datawrapper.png)
   
