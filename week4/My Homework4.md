@@ -168,6 +168,50 @@
 
 可以这么说，最开始我对于自己的议题只是有一个模糊的猜测和想法，但子啊一步步分析数据、查找资料的过程中，我不断自我检查，也不断明确目标，虽然整个过程仍有许多不成熟之处，但最终总算也是找到了一个和最初预想较为契合的落脚点。
 
-####
+#### 呈现
+
+因为涉及填充地图的制作，以及要在一份图表内呈现两个折线，我选择的制作工具是Tableau。将数据导入tableau。
+
+- **图1-2017年生活垃圾无害化处理厂分布情况**
+  
+  本想用柱状图的形式对比呈现（类似下图）:
+![07](https://github.com/ChenM-7/CM-task/blob/master/week4/picture/7%20%E5%B8%82%E5%8E%BF%E5%AF%B9%E6%AF%94.png)
+
+  虽然能够鲜明地看出垃圾处理厂在县级和市级城市分布的差值情况，但柱状图无法表现出地域特征，于是决定用填色地图的形式，以离散型色系来表示县级处理厂减去市级处理厂的差值，完成初步填色后效果如下：
+  
+![1.1](https://github.com/ChenM-7/CM-task/blob/master/week4/picture/%E8%BF%87%E7%A8%8B1.1.png)
+
+  能明显看出东部和中西部地区的差异，不过颜色有点丑，于是修改颜色，并调出地图层把“冲蚀”设为100%，隐去周边国家的地图。
+
+![1.2](https://github.com/ChenM-7/CM-task/blob/master/week4/picture/%E8%BF%87%E7%A8%8B1.2.png)
+
+  再对极值做出标注，本组数据中，西藏地区的县级处理厂减去市级处理厂的差值最大，江苏则最小，亦即市级垃圾处理厂远多于县级垃圾处理厂。
+导出后图表如下：
+
+![1](https://github.com/ChenM-7/CM-task/blob/master/week4/picture/%E5%9B%BE1-2017%E5%B9%B4%E7%94%9F%E6%B4%BB%E5%9E%83%E5%9C%BE%E6%97%A0%E5%AE%B3%E5%8C%96%E5%A4%84%E7%90%86%E5%8E%82%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5.png)
+  
+  可以看到图例没能够显示完全，而且图表底下有几行多余的说明，打开ps进一步完善，并加上数据来源，最终效果如下：
+
+![1.3](https://github.com/ChenM-7/CM-task/blob/master/week4/picture/%E5%9B%BE1.3-2017%E5%B9%B4%E7%94%9F%E6%B4%BB%E5%9E%83%E5%9C%BE%E6%97%A0%E5%AE%B3%E5%8C%96%E5%A4%84%E7%90%86%E5%8E%82%E5%88%86%E5%B8%83%E6%83%85%E5%86%B5-1.png)
+
+- **图2-县市级处理厂的差值与该省份GDP折线图**
+
+  继续利用市县级处理厂数量之差做图。将数据导入Tableau后，得到两个折线图：
+
+  ![2.1](https://github.com/ChenM-7/CM-task/blob/master/week4/picture/%E8%BF%87%E7%A8%8B2.1.png)
+
+  为了让结果更显著，采用“双轴”的方式把两个图表合在一起，并改变颜色：
+
+  ![2.2](https://github.com/ChenM-7/CM-task/blob/master/week4/picture/%E8%BF%87%E7%A8%8B2.2.png)
+  
+  导出后同样在ps中加上数据来源和去掉多余内容，最终向如下：
+
+  ![2.1](https://github.com/ChenM-7/CM-task/blob/master/week4/picture/%E5%9B%BE2.1-%E5%8E%BF%E5%B8%82%E7%BA%A7%E5%A4%84%E7%90%86%E5%8E%82%E7%9A%84%E5%B7%AE%E5%80%BC%E4%B8%8E%E8%AF%A5%E7%9C%81%E4%BB%BDGDP%E6%8A%98%E7%BA%BF%E5%9B%BE.png)
+
+- **图3-四川、山西、广西垃圾处理厂分布折线图**
+
+  图3的制作过程和图2类似，同样是多维折线图，县级垃圾处理厂用粉色表示，市级用灰色，明显看出近十年来位于县级的垃圾处理厂不断增多，发展态势也丝毫不减。
+
+  ![3.1](https://github.com/ChenM-7/CM-task/blob/master/week4/picture/%E5%9B%BE3.1-%E5%9B%9B%E5%B7%9D%E3%80%81%E5%B1%B1%E8%A5%BF%E3%80%81%E5%B9%BF%E8%A5%BF%E5%9E%83%E5%9C%BE%E5%A4%84%E7%90%86%E5%8E%82%E5%88%86%E5%B8%83%E6%8A%98%E7%BA%BF%E5%9B%BE.png)
 
 
