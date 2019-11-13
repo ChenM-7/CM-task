@@ -204,13 +204,13 @@ OJJDP的数据统计工具提供了包括人口数据、执法数据（凶杀、
 
 [国家青少年防御中心（National Juvenile Defender Center,NJDC）](https://njdc.info/)的法律词典给出的解释则更为权威也清晰易懂：
 
-	Probation
-	
-	 A disposition option available to the court as an alternative to commitment, in which an adjudicated juvenile may be released back into the community under certain conditions and under the supervision of a probation officer for a specified period of time.
-	
-	 缓刑：
-	
-	一种可供法庭选择的处置方法，被判决的青少年可以在特定条件下，在缓刑监督官的监督下，在一段特定的时间内被释放回社区。
+> Probation：
+> 
+> A disposition option available to the court as an alternative to commitment, in which an adjudicated juvenile may be released back into the community under certain conditions and under the supervision of a probation officer for a specified period of time.
+> 
+> 缓刑：
+> 
+> 一种可供法庭选择的处置方法，被判决的青少年可以在特定条件下，在缓刑监督官的监督下，在一段特定的时间内被释放回社区。
 
 而关于“安置”（placement），由于美国少年法对未成年人的保护，少年罪犯们不能被送往成人监狱，而是被送往少年收容所或其他类似的集中关押区。“placement”可以理解为收押到“少年监狱”。
 
@@ -234,26 +234,71 @@ OJJDP的数据统计工具提供了包括人口数据、执法数据（凶杀、
 ### -4-
 总结一下，最终收集的数据有：
 
-	美国1980-2017按性别、种族分类的不同犯罪情况少年逮捕率
-数据来源：美国国家青少年司法中心
-https://www.ojjdp.gov/ojstatbb/ezaucr/asp/ucr_display.asp
-	1990-2018美国全国以及各州的0-17岁未成年人的人口数据
-数据来源：美国司法统计局
-https://www.bjs.gov/index.cfm?ty=datool&surl=/arrests/index.cfm
-	2000-2016年全国各种族未成年人凶杀犯罪人数
-数据来源：美国国家青少年司法中心
-https://www.ojjdp.gov/ojstatbb/ezashr/asp/off_selection.asp
-	2007-2017年美国全国不同种族未成年人的犯罪数量
-数据来源：美国国家青少年司法中心
-https://www.ojjdp.gov/ojstatbb/ezajcs/asp/selection.asp
-	2007-2017年美国不同种族在四类犯罪类别中的案件处置情况&在所有犯罪总和中的案件处置情况
-数据来源：美国国家青少年司法中心
-https://www.ojjdp.gov/ojstatbb/ezajcs/asp/selection.asp
-	2007-2017美国不同种族的少年在不同罪行中的拘留情况
-数据来源：美国国家青少年司法中心
-https://www.ojjdp.gov/ojstatbb/ezajcs/asp/selection.asp
-	2007-2017年美国成人犯罪数量
-数据来源：美国司法统计局、美国青少年司法和犯罪预防办公室
-https://www.bjs.gov/index.cfm?ty=datool&surl=/arrests/index.cfm
+- 美国1980-2017按性别、种族分类的不同犯罪情况少年逮捕率
 
-https://www.ojjdp.gov/ojstatbb/crime/ucr.asp?table_in=2&selYrs=2007&rdoGroups=1&rdoData=c
+  数据来源：[美国国家青少年司法中心](https://www.ojjdp.gov/ojstatbb/ezaucr/asp/ucr_display.asp)
+  
+- 1990-2018美国全国以及各州的0-17岁未成年人的人口数据
+
+  数据来源：[美国司法统计局](https://www.bjs.gov/index.cfm?ty=datool&surl=/arrests/index.cfm)
+
+- 2000-2016年全国各种族未成年人凶杀犯罪人数
+  数据来源：[美国国家青少年司法中心](https://www.ojjdp.gov/ojstatbb/ezashr/asp/off_selection.asp)
+
+- 2007-2017年美国全国不同种族未成年人的犯罪数量
+
+  数据来源：[美国国家青少年司法中心](https://www.ojjdp.gov/ojstatbb/ezajcs/asp/selection.asp)
+
+- 2007-2017年美国不同种族在四类犯罪类别中的案件处置情况&在所有犯罪总和中的案件处置情况
+
+  数据来源：[美国国家青少年司法中心](https://www.ojjdp.gov/ojstatbb/ezajcs/asp/selection.asp)
+
+- 2007-2017美国不同种族的少年在不同罪行中的拘留情况
+
+  数据来源：[美国国家青少年司法中心](https://www.ojjdp.gov/ojstatbb/ezajcs/asp/selection.asp)
+
+- 2007-2017年美国成人犯罪数量
+
+  数据来源：[美国司法统计局](https://www.bjs.gov/index.cfm?ty=datool&surl=/arrests/index.cfm)、[美国青少年司法和犯罪预防办公室](https://www.ojjdp.gov/ojstatbb/crime/ucr.asp?table_in=2&selYrs=2007&rdoGroups=1&rdoData=c)
+
+## 数据分析和呈现
+### 分析
+
+我计算了2007-2017年不同种族中的犯罪案件中未成年人犯罪的比例，发现在黑人罪犯中，少年犯的比例是最高的。
+【23】
+
+进入[OJJDP（青少年司法和犯罪预防办公室）](https://www.ojjdp.gov/ojstatbb/crime/JAR_Display.asp?ID=qa05260&selOffenses=1)的网站后，我首先搜出来的数据是不同种族青少年的逮捕趋势：
+
+【18】
+
+很明显地看到黑人少年的逮捕率确实是最高的，其次是每周印第安人，再次是白人——黑人少年果然更会犯罪吗？
+
+我有点疑惑，不过逮捕率不能完全代表犯罪情况，还得进一步查看犯罪数量。
+
+【02】
+
+我在Excel中把美国2007-2017年中不同种族未成年人对应的犯罪总数进行了比较，发现结果和逮捕率相反——犯罪数量白人最多，其次是黑人。
+
+我忽然意识到，黑人的逮捕率之高和计算方式有关，OJJDP对逮捕率的计算方法是统计每100,000个10-17岁对应种族的少年中被逮捕的未成年人数，这样一来就悄然消除了人口基数的影响——即，逮捕率的高低会受到不同种族中未成年人口数量的影响，如果考虑犯罪数量，事实上白人才是最多的。所谓“黑人带来了大部分犯罪”的说法却甚嚣尘上，显然脱不开种族歧视的色彩。
+
+那么，如果要看司法体系中是否存在种族歧视，或许可以看看在相同的罪行下黑人和白人的逮捕情况？但我在对比之后并没有找出什么差异，不过这实属正常，可以进一步看案件的处置情况，毕竟比起依照法律按部就班的逮捕行为，交由审判团审判裁决的过程相对更容易受到主观因素的影响。
+
+如图，这是2017年不同种族中，犯下侵犯人身罪的少年罪犯的处置方式统计。
+
+【19】
+
+可以看出，白人和黑人少年的犯罪数量都很高，且不谈亚洲人、美洲印第安人和西班牙裔，单比较白人和黑人少年不难发现：黑人少年移交到刑事法庭和安置到少年收容所的数量都高于白人少年，被判缓刑的数量则相对更少。
+
+不过光看数量可能还不行，因为本来不同种族的少年犯罪数量就不同，对应的处理方式数量也不同。需要再看看在不同种族中，受到不同处置方式的未成年人数占该种族总犯罪未成年人数的比例。
+
+【20】
+
+种族与种族之间的差距缩小了，但总体趋势仍是一致的——比起白人少年，黑人更容易被判处较重的结果。
+
+那么其他类型犯罪的判处结果也是这样吗？我对比了其他犯罪，结果震惊了，居然都是如此，没有例外。
+
+【21】
+
+关于司法系统中的种族偏见最初只是一个猜测，我本来只是抱着试试看的想法，甚至做好了“血本无归”的准备，没想到数据最终呈现的结果居然证实了确有其事，虽然白人和黑人间相差的比例大多在1%-2%，但这种差异一致地出现在每类犯罪中，我想是能说明一定问题的。
+
+### 呈现
