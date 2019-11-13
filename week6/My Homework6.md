@@ -206,6 +206,54 @@ OJJDP的数据统计工具提供了包括人口数据、执法数据（凶杀、
 
 > Probation
 > 
->A disposition option available to the court as an alternative to commitment, in which an adjudicated juvenile may be released back into the community under certain conditions and under the supervision of a probation officer for a specified period of time.
-缓刑：
-一种可供法庭选择的处置方法，被判决的青少年可以在特定条件下，在缓刑监督官的监督下，在一段特定的时间内被释放回社区。
+> A disposition option available to the court as an alternative to commitment, in which an adjudicated juvenile may be released back into the community under certain conditions and under the supervision of a probation officer for a specified period of time.
+>
+> 缓刑：
+>
+> 一种可供法庭选择的处置方法，被判决的青少年可以在特定条件下，在缓刑监督官的监督下，在一段特定的时间内被释放回社区。
+
+而关于“安置”（placement），由于美国少年法对未成年人的保护，少年罪犯们不能被送往成人监狱，而是被送往少年收容所或其他类似的集中关押区。“placement”可以理解为收押到“少年监狱”。
+
+“移交至刑事法庭”（Waived to Criminal Court），这是对未成年人犯罪案件审理的一个争议点，因为将未成年人案件从少年法庭移交到刑事法庭意味着个人案件审理信息的公开，同时被告少年也要承担比少年刑法更为严厉的成人刑法的处罚。
+
+网站根据美国国家青少年司法中心（National Center for Juvenile Justice,NCJJ）的分类将青少年的犯罪分为四类：
+
+- 侵害人身罪（包括凶杀、强奸、抢劫、殴打等）
+- 侵害财产罪（包括盗窃、汽车盗窃、纵火等）
+- 毒品违法（包括非法销售、购买、制造、运输毒品等）
+- 破坏公共秩序（包括武器犯罪、非暴力性犯罪、行为不检等）
+
+（原文过长，此处就不引用了，下图是对这四类罪行的详细阐释（部分截图））
+
+【17】
+
+基本了解概念后，我收集了全美国2007-2017年不同种族在以上四类犯罪类别中的案件处置情况和在所有犯罪总和中的案件处置情况。
+
+此外，我还收集了美国2007-2017不同种族的少年在不同罪行中的拘留情况，以及2007-2017年美国成人犯罪数量。
+
+### -4-
+总结一下，最终收集的数据有：
+
+	美国1980-2017按性别、种族分类的不同犯罪情况少年逮捕率
+数据来源：美国国家青少年司法中心
+https://www.ojjdp.gov/ojstatbb/ezaucr/asp/ucr_display.asp
+	1990-2018美国全国以及各州的0-17岁未成年人的人口数据
+数据来源：美国司法统计局
+https://www.bjs.gov/index.cfm?ty=datool&surl=/arrests/index.cfm
+	2000-2016年全国各种族未成年人凶杀犯罪人数
+数据来源：美国国家青少年司法中心
+https://www.ojjdp.gov/ojstatbb/ezashr/asp/off_selection.asp
+	2007-2017年美国全国不同种族未成年人的犯罪数量
+数据来源：美国国家青少年司法中心
+https://www.ojjdp.gov/ojstatbb/ezajcs/asp/selection.asp
+	2007-2017年美国不同种族在四类犯罪类别中的案件处置情况&在所有犯罪总和中的案件处置情况
+数据来源：美国国家青少年司法中心
+https://www.ojjdp.gov/ojstatbb/ezajcs/asp/selection.asp
+	2007-2017美国不同种族的少年在不同罪行中的拘留情况
+数据来源：美国国家青少年司法中心
+https://www.ojjdp.gov/ojstatbb/ezajcs/asp/selection.asp
+	2007-2017年美国成人犯罪数量
+数据来源：美国司法统计局、美国青少年司法和犯罪预防办公室
+https://www.bjs.gov/index.cfm?ty=datool&surl=/arrests/index.cfm
+
+https://www.ojjdp.gov/ojstatbb/crime/ucr.asp?table_in=2&selYrs=2007&rdoGroups=1&rdoData=c
