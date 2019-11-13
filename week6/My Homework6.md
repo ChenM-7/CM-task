@@ -122,7 +122,7 @@ CRIN提供了世界各国的最低刑事责任年龄及相应法规、世界各�
 那么，回到原典，去数据来源处中核对究竟是0-17还是10-17，我按照网页中的说明找到了美国司法统计局（the Bureau of Justice Statistics,BJS）。BJS对本数据集的主体——Juvenile（青少年）一词做出了解释：
 
 > **Juvenile**———An individual under 18 years of age regardless of state definition. The Uniform Crime Reporting Program does not collect data regarding police contact with a juvenile who has not committed an offense, nor does it collect data on situations in which police take a juvenile into custody for his or her own protection, e.g., neglect cases.
-
+>
 > **少年**———年龄在18岁以下的人，无论国家定义如何。统一犯罪举报程序既不收集与未犯罪的未成年人进行警察联系的数据，也不收集有关警察出于未成年人保护目的将其羁押的情况（例如疏忽案件）的数据。
 
 然而……并没有关于年龄的详细解释。
@@ -167,26 +167,45 @@ OJJDP的数据统计工具提供了包括人口数据、执法数据（凶杀、
 以我要收集的“处置”一项为例：
 
 > **Disposition**：
-
+>
 > Definite action taken or treatment plan decided upon or initiated regarding a particular case. Case dispositions are coded into the following categories:
-
+>
 > •	**Waived to Criminal Court** - Cases that were transferred to criminal court as the result of a waiver hearing in juvenile court.
-
+>
 > •	**Placement** - Cases in which youth were placed in a residential facility for delinquents, or cases in which youth were otherwise removed from their homes and placed elsewhere.
-
+>
 > •	**Probation** - Cases in which youth were placed on informal/voluntary or formal/court-ordered probation or supervision.
-
+>
 > •	**Dismissed** - Cases dismissed (including those warned, counseled, and released) with no further action anticipated. Among cases handled informally, some cases may be dismissed by the juvenile court because the matter is being handled in another court.
-
+>
 > •	**Other** - A variety of miscellaneous actions not included above. This category includes fines, restitution and community services; referrals outside the court for services with minimal or no further court involvement anticipated; and those dispositions coded as "Other" by the reporting courts.
 
 对案件的处置结果对应的几个条目分别是：
 
 > •	**移交到刑事法院**- 少年法庭将结果移交刑事法院的案件。
-
+>
 > •	**安置**-将青少年安置在少年犯收容所，或将青少年从其家中带走并安置在其他地方的情况。
-
+>
 > •	**缓刑**-将青年置于非正式/自愿或正式/法院命令的缓刑或监督之下的情况。
-
+>
 > •	**已驳回**-驳回的案件（包括已警告，建议和释放的案件），预计不会采取进一步行动。在非正式处理的案件中，一些案件可能会被少年法院驳回，因为此事正在另一法院处理。
+>
 > •	**其他**-上面未包括的各种其他操作。该类别包括罚款，赔偿和社区服务；在法庭以外转介服务，而预期法庭只会轻微或没有进一步介入；以及那些被报告法院标记为“其他”的处置。
+
+当然，这并不能解决一个法律小白的疑惑，“dismissed”、“other”、“waived to criminal court”三项我可以理解，但是“placement”和“probation”又是什么？这些处置中哪些更为严厉、哪些相对温和？
+
+我似懂非懂，网站中没有给出进一步解释，继续查资料。
+
+对于“缓刑”（probation），维基百科的解释是：
+
+> Probation in criminal law is a period of supervision over an offender, ordered by the court instead of serving time in prison. In some jurisdictions, the term probation applies only to community sentences (alternatives to incarceration), such as suspended sentences.
+>
+> （在刑法中，缓刑是指由法院对罪犯进行监督而不是在监狱服刑的一段时期）
+
+[国家青少年防御中心（National Juvenile Defender Center,NJDC）](https://njdc.info/)的法律词典给出的解释则更为权威也清晰易懂：
+
+> Probation
+> 
+>A disposition option available to the court as an alternative to commitment, in which an adjudicated juvenile may be released back into the community under certain conditions and under the supervision of a probation officer for a specified period of time.
+缓刑：
+一种可供法庭选择的处置方法，被判决的青少年可以在特定条件下，在缓刑监督官的监督下，在一段特定的时间内被释放回社区。
