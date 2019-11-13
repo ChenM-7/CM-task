@@ -164,3 +164,29 @@ OJJDP的数据统计工具提供了包括人口数据、执法数据（凶杀、
 
 好在网站提供了[元数据说明](https://www.ojjdp.gov/ojstatbb/ezajcs/asp/glossary.asp)。
 
+以我要收集的“处置”一项为例：
+
+> **Disposition**：
+
+> Definite action taken or treatment plan decided upon or initiated regarding a particular case. Case dispositions are coded into the following categories:
+
+> •	**Waived to Criminal Court** - Cases that were transferred to criminal court as the result of a waiver hearing in juvenile court.
+
+> •	**Placement** - Cases in which youth were placed in a residential facility for delinquents, or cases in which youth were otherwise removed from their homes and placed elsewhere.
+
+> •	**Probation** - Cases in which youth were placed on informal/voluntary or formal/court-ordered probation or supervision.
+
+> •	**Dismissed** - Cases dismissed (including those warned, counseled, and released) with no further action anticipated. Among cases handled informally, some cases may be dismissed by the juvenile court because the matter is being handled in another court.
+
+> •	**Other** - A variety of miscellaneous actions not included above. This category includes fines, restitution and community services; referrals outside the court for services with minimal or no further court involvement anticipated; and those dispositions coded as "Other" by the reporting courts.
+
+对案件的处置结果对应的几个条目分别是：
+
+> •	**移交到刑事法院**- 少年法庭将结果移交刑事法院的案件。
+
+> •	**安置**-将青少年安置在少年犯收容所，或将青少年从其家中带走并安置在其他地方的情况。
+
+> •	**缓刑**-将青年置于非正式/自愿或正式/法院命令的缓刑或监督之下的情况。
+
+> •	**已驳回**-驳回的案件（包括已警告，建议和释放的案件），预计不会采取进一步行动。在非正式处理的案件中，一些案件可能会被少年法院驳回，因为此事正在另一法院处理。
+> •	**其他**-上面未包括的各种其他操作。该类别包括罚款，赔偿和社区服务；在法庭以外转介服务，而预期法庭只会轻微或没有进一步介入；以及那些被报告法院标记为“其他”的处置。
