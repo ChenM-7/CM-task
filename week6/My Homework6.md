@@ -204,13 +204,13 @@ OJJDP的数据统计工具提供了包括人口数据、执法数据（凶杀、
 
 [国家青少年防御中心（National Juvenile Defender Center,NJDC）](https://njdc.info/)的法律词典给出的解释则更为权威也清晰易懂：
 
-> Probation
-> 
-> A disposition option available to the court as an alternative to commitment, in which an adjudicated juvenile may be released back into the community under certain conditions and under the supervision of a probation officer for a specified period of time.
->
-> 缓刑：
->
-> 一种可供法庭选择的处置方法，被判决的青少年可以在特定条件下，在缓刑监督官的监督下，在一段特定的时间内被释放回社区。
+	Probation
+	
+	 A disposition option available to the court as an alternative to commitment, in which an adjudicated juvenile may be released back into the community under certain conditions and under the supervision of a probation officer for a specified period of time.
+	
+	 缓刑：
+	
+	一种可供法庭选择的处置方法，被判决的青少年可以在特定条件下，在缓刑监督官的监督下，在一段特定的时间内被释放回社区。
 
 而关于“安置”（placement），由于美国少年法对未成年人的保护，少年罪犯们不能被送往成人监狱，而是被送往少年收容所或其他类似的集中关押区。“placement”可以理解为收押到“少年监狱”。
 
