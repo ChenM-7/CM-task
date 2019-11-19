@@ -136,7 +136,7 @@ CRIN提供了世界各国的最低刑事责任年龄及相应法规、世界各�
 
 但是我必须把数据计算方式给搞清楚，不然哪里还敢用？于是我用蹩脚的英文给OJJDP发了一封邮件询问，没有想到一天之后就得到了答复！（不得不说效率真的很高！）
 
-![11](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/11%20%E9%82%AE%E4%BB%B6.png)
+
 
 <p align="center">
 	<img src="https://github.com/ChenM-7/CM-task/blob/master/week6/picture/11%20%E9%82%AE%E4%BB%B6.png" alt="Sample"  width="600" height="450">
@@ -146,7 +146,7 @@ CRIN提供了世界各国的最低刑事责任年龄及相应法规、世界各�
 </p>
 
 
-![12](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/12%20%E9%82%AE%E4%BB%B6.png)
+
 
 <p align="center">
 	<img src="https://github.com/ChenM-7/CM-task/blob/master/week6/picture/12%20%E9%82%AE%E4%BB%B6.png" alt="Sample"  width="600" height="450">
