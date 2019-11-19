@@ -40,7 +40,7 @@
 
 然而，2017年一年中近80万个未成年犯罪案件的判决结果耐人深省。
 
-![图表2](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE2%20last-01.jpg)
+![图表2](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/图2%20lastlast！-01.jpg)
 
 在任何一类犯罪中，黑人少年都比白人少年更容易被判处到少年收容所或移交至刑事法庭，同时，得到相对温和的缓刑判决的可能性则更小。虽然相差的比例大多在1%-3%之间，但当四类罪行的判决结果被放在一起时，却呈现出了某种微妙的一致性。
 
