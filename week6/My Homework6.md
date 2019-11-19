@@ -16,6 +16,13 @@
 
 结果大相径庭。
 
+<p align="center">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE1%20%E9%87%8D%E6%96%B0%E6%94%BE%E5%A4%A7%E7%89%88%20lastlast-01.jpg" alt="Sample"  width="400" height="700">
+	<p align="center">
+		<em> 国家统计局数据收集页面 </em>
+	</p>
+</p>
+
 ![图表1](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE1%20%E9%87%8D%E6%96%B0%E6%94%BE%E5%A4%A7%E7%89%88%20lastlast-01.jpg)
 
 事实上，在美国2017年所有未成年犯罪案件中，白人占据了其中将近一半的比例。黑人少年仅占35%，却往往在公众认知中背负更多偏见与责难。从1619年北美大陆贩卖进第一批黑奴，到奥巴马上台后签署的平权协议，种族歧视一直是美国政治社会生活中避不开的话题，但抛开历史和文化因素，只谈犯罪——难道是因为黑人少年的犯罪行为普遍比白人少年严重吗，比如是否更多集中在凶杀、强奸或抢劫等较恶劣的罪行上？
@@ -236,24 +243,24 @@ OJJDP的数据统计工具提供了包括人口数据、执法数据（凶杀、
 此外，我还收集了美国2007-2017不同种族的少年在不同罪行中的拘留情况，以及2007-2017年美国成人犯罪数量。
 
 ### -4-
-总结一下，最终收集的数据有：
+总结一下，最终收集的数据有：（粗体表示：最终在图文呈现中用到的数据）
 
-- 美国1980-2017按性别、种族分类的不同犯罪情况少年逮捕率
+- **美国1980-2017按性别、种族分类的不同犯罪情况少年逮捕率**
 
   数据来源：[美国国家青少年司法中心](https://www.ojjdp.gov/ojstatbb/ezaucr/asp/ucr_display.asp)
   
-- 1990-2018美国全国以及各州的0-17岁未成年人的人口数据
+- **1990-2018美国全国以及各州的0-17岁未成年人的人口数据**
 
   数据来源：[美国司法统计局](https://www.bjs.gov/index.cfm?ty=datool&surl=/arrests/index.cfm)
 
 - 2000-2016年全国各种族未成年人凶杀犯罪人数
   数据来源：[美国国家青少年司法中心](https://www.ojjdp.gov/ojstatbb/ezashr/asp/off_selection.asp)
 
-- 2007-2017年美国全国不同种族未成年人的犯罪数量
+- **2007-2017年美国全国不同种族未成年人的犯罪数量**
 
   数据来源：[美国国家青少年司法中心](https://www.ojjdp.gov/ojstatbb/ezajcs/asp/selection.asp)
 
-- 2007-2017年美国不同种族在四类犯罪类别中的案件处置情况&在所有犯罪总和中的案件处置情况
+- **2007-2017年美国不同种族在四类犯罪类别中的案件处置情况&在所有犯罪总和中的案件处置情况**
 
   数据来源：[美国国家青少年司法中心](https://www.ojjdp.gov/ojstatbb/ezajcs/asp/selection.asp)
 
@@ -261,7 +268,7 @@ OJJDP的数据统计工具提供了包括人口数据、执法数据（凶杀、
 
   数据来源：[美国国家青少年司法中心](https://www.ojjdp.gov/ojstatbb/ezajcs/asp/selection.asp)
 
-- 2007-2017年美国成人犯罪数量
+- **2007-2017年美国成人犯罪数量**
 
   数据来源：[美国司法统计局](https://www.bjs.gov/index.cfm?ty=datool&surl=/arrests/index.cfm)、[美国青少年司法和犯罪预防办公室](https://www.ojjdp.gov/ojstatbb/crime/ucr.asp?table_in=2&selYrs=2007&rdoGroups=1&rdoData=c)
 
@@ -321,9 +328,18 @@ OJJDP的数据统计工具提供了包括人口数据、执法数据（凶杀、
 
   ![24](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/24%20tableau1.png)
   
-  不过觉得做出来效果也并不好:
+  但是我发现，这样做出来的图表曲线似乎不是很有张力……
   
-  ![图1原版]（）
+  ![图1](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE1%E5%8E%9F%E7%89%88-01.jpg)
+  
+  下面这张图给了我启示，它包含了从1980-2018所有年份的人口变化和犯罪率数据，在表现形式上，纵轴被隐去了——数据线本来就很多，隐去纵轴反而显得很干净，横轴也只标注了1980和2016——因为这两个时间点才是关键的。
+  
+  ![25](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/25.png)
+  ————这让我想到，可否添加更多年份的数据，同时隐去横纵轴，只保留关键数据？ 2012-2017年的数据只有五年，太少了，表达效果不足，用2007-2017年或许更多年的数据会更好？而且这样也不会显得乱，因为不需要把每个数据点都标出来，只需要特别呈现出白人的数据就行。
+  
+  于是一番修改之后有了最终的图像：
+  
+  
 
 
 
