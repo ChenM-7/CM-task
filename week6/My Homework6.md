@@ -368,13 +368,13 @@ OJJDP的数据统计工具提供了包括人口数据、执法数据（凶杀、
 
 
 <p align="center">
-	<img src="https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE2%20last-01.jpg" alt="Sample"  width="450" height="600">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE2%20lastlast%EF%BC%81-01.jpg" alt="Sample"  width="450" height="600">
 	<p align="center">
 	</p>
 </p>
 
 
-不过我仍然觉得这不是最好的呈现方式，不知道老师有没有建议qwq.
+因为是第一次用AI做图，所以整个过程非常之难产，最终的结果比起上次作业自认为好歹有那么一点点进步（好吧/捂脸），但就第二张图而言我仍然觉得这不是最好的呈现方式，不知道老师有没有建议qwq.
 
 ## 参考文献
 
