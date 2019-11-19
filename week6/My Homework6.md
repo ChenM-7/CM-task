@@ -137,7 +137,24 @@ CRIN提供了世界各国的最低刑事责任年龄及相应法规、世界各�
 但是我必须把数据计算方式给搞清楚，不然哪里还敢用？于是我用蹩脚的英文给OJJDP发了一封邮件询问，没有想到一天之后就得到了答复！（不得不说效率真的很高！）
 
 ![11](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/11%20%E9%82%AE%E4%BB%B6.png)
+
+<p align="center">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week6/picture/11%20%E9%82%AE%E4%BB%B6.png" alt="Sample"  width="600" height="450">
+	<p align="center">
+		<em>这是我发送的邮件</em>
+	</p>
+</p>
+
+
 ![12](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/12%20%E9%82%AE%E4%BB%B6.png)
+
+<p align="center">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week6/picture/12%20%E9%82%AE%E4%BB%B6.png" alt="Sample"  width="600" height="450">
+	<p align="center">
+		<em>这是对方的答复</em>
+	</p>
+</p>
+
 
 对方表示：在有关种族的逮捕率统计中，分子（逮捕人数）就是18岁以下的未成年人，分母则就是10-17岁人数。网站的数据统计和说明都没有问题。
 
