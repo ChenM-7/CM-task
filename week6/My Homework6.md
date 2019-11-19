@@ -326,14 +326,18 @@ OJJDP的数据统计工具提供了包括人口数据、执法数据（凶杀、
   
   但是我发现，这样做出来的图表曲线似乎不是很有张力……
   
-  ![图1](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE1%E5%8E%9F%E7%89%88-01.jpg)
+<p align="center">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE1%E5%8E%9F%E7%89%88-01.jpg" alt="Sample"  width="450" height="600">
+	<p align="center">
+	</p>
+</p>
   
   下面这张图给了我启示，它包含了从1980-2018所有年份的人口变化和犯罪率数据，在表现形式上，纵轴被隐去了——数据线本来就很多，隐去纵轴反而显得很干净，横轴也只标注了1980和2016——因为这两个时间点才是关键的。
   
   ![25](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/25.png)
   ————这让我想到，可否添加更多年份的数据，同时隐去横纵轴，只保留关键数据？ 2012-2017年的数据只有五年，太少了，表达效果不足，用2007-2017年或许更多年的数据会更好？而且这样也不会显得乱，因为不需要把每个数据点都标出来，只需要特别呈现出白人的数据就行。
   
-  于是一番修改之后有了最终的图像（好吧虽然做出来的效果还是和想象中差远了，不过至少比起第一版来在可视化的层面上少有）
+  于是一番修改之后有了最终的图像（好吧虽然做出来的效果还是和想象中差远了，不过至少比起第一版来在可视化的层面上稍有改进吧）
   
 <p align="center">
 	<img src="https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE1%20%E9%87%8D%E6%96%B0%E6%94%BE%E5%A4%A7%E7%89%88%20lastlast-01.jpg" alt="Sample"  width="450" height="600">
@@ -349,6 +353,26 @@ OJJDP的数据统计工具提供了包括人口数据、执法数据（凶杀、
 而一般的图表涉及的变量都是两到三个，我想到老师说的——是否存在可以舍去的内容？是否每个变量必须要呈现？我想了很久，觉得这四个变量似乎确实是缺一不可……那么可不可以在保留信息的前提下把其中的几个变量合并呢？
 
 黑人和白人的数据是最关键的，为了精简表述，我略去了其他种族的数据，精简表述；同时用黑人和白人在不同犯罪中受到不同处置的比例差值作为主体，来代替种族和处理比例，从而简化为三个变量。
+
+第一版图是这样的：
+
+<p align="center">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE2%20last-01.jpg" alt="Sample"  width="450" height="600">
+	<p align="center">
+	</p>
+</p>
+
+不过在做完之后重新阅读的过程中我发觉这似乎并不是很好理解，于是加以改进，添加了一些内容，但又担心字太多会影响观感显得混乱，于是调小了图例并修改了柱状图的位置：
+
+最终版是这样的：
+
+
+<p align="center">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE2%20last-01.jpg" alt="Sample"  width="450" height="600">
+	<p align="center">
+	</p>
+</p>
+
 
 不过我仍然觉得这不是最好的呈现方式，不知道老师有没有建议qwq.
 
