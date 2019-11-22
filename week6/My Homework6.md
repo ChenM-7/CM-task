@@ -17,7 +17,7 @@
 结果大相径庭。
 
 
-![图表1](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE1%20%E9%87%8D%E6%96%B0%E6%94%BE%E5%A4%A7%E7%89%88%20lastlast-01.jpg)
+![图表1](https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE1%20%E6%9C%80%E7%BB%88%E7%89%88-01.jpg)
 
 事实上，在美国2017年所有未成年犯罪案件中，白人占据了其中将近一半的比例。黑人少年仅占35%，却往往在公众认知中背负更多偏见与责难。从1619年北美大陆贩卖进第一批黑奴，到奥巴马上台后签署的平权协议，种族歧视一直是美国政治社会生活中避不开的话题，但抛开历史和文化因素，只谈犯罪——同是未成年人，为什么黑人少年更受诟病？难道是因为他们的犯罪行为普遍比白人少年严重吗，比如是否更多集中在凶杀、强奸或抢劫等较恶劣的罪行上？
 
@@ -357,7 +357,7 @@ OJJDP的数据统计工具提供了包括人口数据、执法数据（凶杀、
   于是一番修改之后有了最终的图像（好吧虽然做出来的效果还是和想象中差远了，不过至少比起第一版来在可视化的层面上稍有改进吧）
   
 <p align="center">
-	<img src="https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE1%20%E9%87%8D%E6%96%B0%E6%94%BE%E5%A4%A7%E7%89%88%20lastlast-01.jpg" alt="Sample"  width="450" height="600">
+	<img src="https://github.com/ChenM-7/CM-task/blob/master/week6/picture/%E5%9B%BE1%20%E6%9C%80%E7%BB%88%E7%89%88-01.jpg" alt="Sample"  width="450" height="600">
 	<p align="center">
 	</p>
 </p>
