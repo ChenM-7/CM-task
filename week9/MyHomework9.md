@@ -8,6 +8,7 @@
   </p>
   
 - R语言制作的图：
+	![picture1-1](https://github.com/ChenM-7/CM-task/blob/master/week9/picture1-1.jpg)
 
 - 代码：
 
@@ -28,6 +29,7 @@ ggplot(picture11, aes(x=year, y=number, colour=race, group=race))
 - 原图：
   ![图2.1](https://github.com/ChenM-7/CM-task/blob/master/week4/picture/%E5%9B%BE2.1-%E5%8E%BF%E5%B8%82%E7%BA%A7%E5%A4%84%E7%90%86%E5%8E%82%E7%9A%84%E5%B7%AE%E5%80%BC%E4%B8%8E%E8%AF%A5%E7%9C%81%E4%BB%BDGDP%E6%8A%98%E7%BA%BF%E5%9B%BE.png)
 - R语言制作的图
+	![picture3.1](https://github.com/ChenM-7/CM-task/blob/master/week9/picture3%2C1.png)
 
 - 代码：
 
@@ -39,4 +41,5 @@ picture3 <- read_excel("picture3.xlsx")
 ggplot(picture3, aes(x=Area, y=NumberorGDP, colour=variable, group=variable)) + geom_line(size=1) 
   + geom_point(size=3) 
   + theme_classic()
+  + theme(axis.text.x = element_text(angle=45, hjust=1, vjust=1))  #横坐标太密集，如果水平呈现会相互重叠，只好设置一定角度qwq
 ```
