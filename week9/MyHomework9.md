@@ -11,7 +11,7 @@
 
 - 代码：
 
-```r
+```
 setwd("~/可视化/week9")
 library(readxl)
 picture1 <- read_excel("picture1.xlsx")
@@ -23,6 +23,20 @@ ggplot(picture11, aes(x=year, y=number, colour=race, group=race))
   + geom_line(size=1) 	#设置折线粗细
   + geom_point(size=3) 	 #加上数据点
   + theme_classic()    #改变背景框的主题
+```
+## 图2：未成年犯罪-白人少年的犯罪数量是所有种族中最多的
+- 原图：
+  ![图2.1](https://github.com/ChenM-7/CM-task/blob/master/week4/picture/%E5%9B%BE2.1-%E5%8E%BF%E5%B8%82%E7%BA%A7%E5%A4%84%E7%90%86%E5%8E%82%E7%9A%84%E5%B7%AE%E5%80%BC%E4%B8%8E%E8%AF%A5%E7%9C%81%E4%BB%BDGDP%E6%8A%98%E7%BA%BF%E5%9B%BE.png)
+- R语言制作的图
 
-```r
+- 代码：
 
+```
+setwd("~/DJ/week9")
+library(readxl)
+library(ggplot2)
+picture3 <- read_excel("picture3.xlsx")
+ggplot(picture3, aes(x=Area, y=NumberorGDP, colour=variable, group=variable)) + geom_line(size=1) 
+  + geom_point(size=3) 
+  + theme_classic()
+```
