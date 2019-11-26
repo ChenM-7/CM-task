@@ -6,6 +6,10 @@
 	  <p align="center">
 	  </p>
   </p>
+  
+- R语言制作的图：
+
+- 代码：
 
 ```r
 setwd("~/可视化/week9")
@@ -13,11 +17,12 @@ library(readxl)
 picture1 <- read_excel("picture1.xlsx")
 library(ggplot2)
 picture11 <- picture1
-picture11$year <- factor(picture1$year)
+picture11$year <- factor(picture1$year)    #把x轴的年份转化为因子变量，不然会出现"2016.4年"这样的情况
 options(scipen=200)   #取消科学计数法
 ggplot(picture11, aes(x=year, y=number, colour=race, group=race)) 
-  + geom_line(size=1) 
-  + geom_point(size=3) 
+  + geom_line(size=1) 	#设置折线粗细
+  + geom_point(size=3) 	 #加上数据点
   + theme_classic()    #改变背景框的主题
+
 ```r
 
