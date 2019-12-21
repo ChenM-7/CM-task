@@ -2,7 +2,7 @@
 ## 一、选题想法
 最初的灵感来源是两篇数据新闻：
 
-一是the pudding的 (《一百年简史》)[https://pudding.cool/2018/12/brief-history/] ,它把《纽约时报》100年来在头条新闻中出现的国家进行了统计分析，视觉上给人强烈的冲击感；
+一是the pudding的 [《一百年简史》](https://pudding.cool/2018/12/brief-history/) ,它把《纽约时报》100年来在头条新闻中出现的国家进行了统计分析，视觉上给人强烈的冲击感；
 
 二是后来我又回忆起一年前看到的上观新闻做的统计《时代周刊》封面变化的数据新闻——因为时间久远没能找到链接，但和the pudding的呈现方式是类似的——语言表述较少，信息都在大面积铺展开的《时代周刊》历年封面中，比如封面根据不同的国籍依次亮起。
 
@@ -37,6 +37,46 @@
 【02】
 
 虽然不知道这些信息是否都会用到，也许有些内容在最后的数据图中也并不一定能够呈现，但至少在当下，它们对我来说都是必要的，它们在帮助我构建一个整体的观感和思路。
+
+## 三、确定内容框架的过程
+
+我的主要叙述框架是这样的：
+
+首先1994-2019年各领域封面人物的总体情况-->结合历史背景环境解释不同时期出现不同分布的原因-->再次过程中引出人们价值观念的变化（消费主义、女性崛起等）-->回顾+总结
+
+一方面人物是我们窥视时代的窗口，当他们被呈现在封面上时，其本身也就具有了媒体宣传和引导的作用，亦即所谓“偶像”流变史的想法由来；另一方面，受到论文《话语变迁与偶像塑造：<人物>杂志封面人物的形象建构（1994-2016）》的启发，我认为用“偶像”流变史的方式来反观时代变化是可用的也是可行的。
+
+在分析之前，首先需要把各类人物的职业进行归类：
+
+主要包括政治、经济、文学、艺术、娱乐、影视这几个领域，细分如下：
+
+- 1艺人明星：歌手、演员
+- 2艺术工作者：画家，钢琴家，音乐家，漫画家，时装设计师，舞蹈家等
+- 3科研工作者：工程师，火箭技术专家，科学家，计算机学家，地质学家，气象学家，物理学家，军事家，汽车工业专家，生物学家，羊毛学专家，医学家，数学家，外科专家，水利专家，通信专家，林木遗传育种学家等
+- 4政界人士政治家，军事家，革命家，政治官员，财政官员、法官、人大常务委员会委员、电视台台长
+- 5商界人士：企业家，经济学家等
+- 6文学研究者：文学家、史学家、翻译家、社会学者，哲学家，作家，诗人等
+- 7运动员、体坛人员：运动员、教练、奥委会主席
+- 8影视工作者：编剧、导演、电视编导等
+- 9其他：皇帝，电子竞技选手，演讲家，城市规划师，航天员，消防员，农民，工人，军人，劳动模范等
+- 10教育工作者：教师、教授、教育家
+
+分完类之后利用数据透视表，得出1994-2019各年各行业领域的人次统计，得到的结果……嗯乍一看非常混乱，不过还是有几个明显趋势的——明星、运动员、商界人士在近几年内增加不少，政治人士则在减少——但这可能和多人封面刊有关，每年登上封面的人数总数是不同的，光看数量没法得出确切结论，于是我又依次计算了各领域人士占当年总人次的比例，明星、影视业、商业和政治领域的变化是较为明显的，前三者在提高，政治则在下降。
+
+时代大环境如何影响这些封面人物呢？中国知网上和《人物》封面变化有关的论文有两篇，其中都提到从上世纪九十年代市场经济改革和主流意识形态的掌控到当下的互联网赋权和消费主义兴起。
+
+除此之外呢？性别也是值得注意的一个点，在收集资料时我惊讶又惊喜地发现2019年一月刊的封面，十张面孔全是女性，这是前所未有的，梳理1994-2019年的男女性人数变化，能发现从女性一直处于封面人物的附属地位，知道2017年数量开始增加，2019年首次超过了男性。
+
+### **本阶段的主要文献参考**
+
+[1][邵晶晶.《中国企业家》杂志封面人物报道特色（2016-2019)[J].新闻传播,2019(13):88-89.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=YWCB201913042&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEUvWEF3TCt3T3VPMEN2MGlkYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzA3NzF1RnkzbFZiek1QRHJJYkxHNEg5ak5ySTlCWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVI=)
+
+[2][张付伟. 话语变迁与偶像塑造：《人物》杂志封面人物的形象建构（1994-2016）[D].华南理工大学,2017.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201802&filename=1017855952.nh&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEUvWEF3TCt3T3VPMEN2MGlkYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDkyMzF1RnkzbFdydktWRjI2R2J1OUc5akpyWkViUElSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVI=)
+
+
+[3][王亿本.《时代》周刊封面中国人物的图像隐喻与政治修辞研究[J].西南民族大学学报(人文社科版),2018,39(02):160-163.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=XNZS201802023&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEUvWEF3TCt3T3VPMEN2MGlkYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjIyNDZPZVplUnVGeTNtVXIzT1BTUFJmYkc0SDluTXJZOUhaNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkw=)
+
+[4][王星宇. 《人物》（1980-2017）封面人物形象特点及变迁研究[D].内蒙古大学,2018.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201901&filename=1018714514.nh&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEUvWEF3TCt3T3VPMEN2MGlkYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzA0MTF1RnkzbVU3cktWRjI2RnJTNUd0VE5xNUViUElSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVI=)
 
 
 
