@@ -46,7 +46,7 @@
 
 首先1994-2019年各领域封面人物的总体情况-->结合历史背景环境解释不同时期出现不同分布的原因-->再次过程中引出人们价值观念的变化（消费主义、女性崛起等）-->回顾+总结
 
-一方面人物是我们窥视时代的窗口，当他们被呈现在封面上时，其本身也就具有了媒体宣传和引导的作用，亦即所谓“偶像”流变史的想法由来；另一方面，受到论文《话语变迁与偶像塑造：<人物>杂志封面人物的形象建构（1994-2016）》的启发，我认为用“偶像”流变史的方式来反观时代变化是可用的也是可行的。
+一方面，人物是我们窥视时代的窗口，当他们被呈现在封面上时，其本身也就具有了媒体宣传和引导的作用，亦即所谓“偶像”流变史的想法由来；另一方面，受到论文《话语变迁与偶像塑造：<人物>杂志封面人物的形象建构（1994-2016）》这篇论文的启发，我认为用“偶像”流变史的方式来反观时代变化是可用的也是可行的。
 
 在分析之前，首先需要把各类人物的职业进行归类：
 
@@ -75,10 +75,22 @@
 
 [2][张付伟. 话语变迁与偶像塑造：《人物》杂志封面人物的形象建构（1994-2016）[D].华南理工大学,2017.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201802&filename=1017855952.nh&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEUvWEF3TCt3T3VPMEN2MGlkYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDkyMzF1RnkzbFdydktWRjI2R2J1OUc5akpyWkViUElSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVI=)
 
-
 [3][王亿本.《时代》周刊封面中国人物的图像隐喻与政治修辞研究[J].西南民族大学学报(人文社科版),2018,39(02):160-163.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=XNZS201802023&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEUvWEF3TCt3T3VPMEN2MGlkYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjIyNDZPZVplUnVGeTNtVXIzT1BTUFJmYkc0SDluTXJZOUhaNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkw=)
 
 [4][王星宇. 《人物》（1980-2017）封面人物形象特点及变迁研究[D].内蒙古大学,2018.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201901&filename=1018714514.nh&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEUvWEF3TCt3T3VPMEN2MGlkYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzA0MTF1RnkzbVU3cktWRjI2RnJTNUd0VE5xNUViUElSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVI=)
+
+## 四、视觉呈现的选择
+### 配色
+底色本想选黑色或灰色，但又觉得太压抑而且不好控制图表的配色，最后选择了米黄色（？）（不太会描述，大家眼里的颜色都长得不一样/扶额），当然也有受到一些作品的启发，比如[《SINGLES-DAY-ALIBABA》](https://graphics.reuters.com/SINGLES-DAY-ALIBABA/0100B30E24T/index.html)
+【08】
+比如前面提到的[《一百年简史》](https://pudding.cool/2018/12/brief-history/)
+【09】
+
+在这样的底色下，红色系的表现力非常强。但我不太会调颜色，所以从收集各种商业公司配色的[brandcolors网站](https://brandcolors.net/)中找自认为（？）比较风格相近的配色：
+【10】
+这两组图给人的感觉很舒服（至少我是这么觉得的hhh），由于考虑到图表中会有男女性的分别呈现，于是又从中选了蓝紫色。
+最后的色卡就是这样：
+【11】
 
 
 
