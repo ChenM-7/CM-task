@@ -106,14 +106,21 @@
 ## 四、视觉呈现的选择
 ### *配色*
 底色本想选黑色或灰色，但又觉得太压抑而且不好控制图表的配色，最后选择了米黄色（？）（不太会描述，大家眼里的颜色都长得不一样/扶额），当然也有受到一些作品的启发，比如[《SINGLES-DAY-ALIBABA》](https://graphics.reuters.com/SINGLES-DAY-ALIBABA/0100B30E24T/index.html)
+
 ![【08】](https://github.com/ChenM-7/CM-task/blob/master/final/08.png)
+
 比如前面提到的[《一百年简史》](https://pudding.cool/2018/12/brief-history/)
+
 ![【09】](https://github.com/ChenM-7/CM-task/blob/master/final/09.png)
 
 在这样的底色下，红色系的表现力非常强。但我不太会调颜色，所以从收集各种商业公司配色的[brandcolors网站](https://brandcolors.net/)中找自认为（？）比较风格相近的配色：
+
 ![【10】](https://github.com/ChenM-7/CM-task/blob/master/final/10.png)
+
 这两组图给人的感觉很舒服（至少我是这么觉得的hhh），由于考虑到图表中会有男女性的分别呈现，于是又从中选了蓝紫色。
+
 最后的色卡就是这样：
+
 ![【11】](https://github.com/ChenM-7/CM-task/blob/master/final/11.png)
 
 ### *图表*
@@ -158,10 +165,11 @@
 
 ## 五、参考资料（链接或文件）
 ### *数据新闻*
-《那些数百万离开的人》https://www.zeit.de/politik/deutschland/2019-05/east-west-exodus-migration-east-germany-demography
-《一百年简史》https://pudding.cool/2018/12/brief-history/
-《SINGLES-DAY-ALIBABA》
-https://graphics.reuters.com/SINGLES-DAY-ALIBABA/0100B30E24T/index.html
+[《那些数百万离开的人》](https://www.zeit.de/politik/deutschland/2019-05/east-west-exodus-migration-east-germany-demography)
+
+[《一百年简史》](https://pudding.cool/2018/12/brief-history/)
+
+[《SINGLES-DAY-ALIBABA》](https://graphics.reuters.com/SINGLES-DAY-ALIBABA/0100B30E24T/index.html)
 
 ### *论文资料*
 [1][邵晶晶.《中国企业家》杂志封面人物报道特色（2016-2019)[J].新闻传播,2019(13):88-89.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=YWCB201913042&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEUvWEF3TCt3T3VPMEN2MGlkYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzA3NzF1RnkzbFZiek1QRHJJYkxHNEg5ak5ySTlCWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVI=)
