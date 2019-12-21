@@ -30,7 +30,6 @@
       <td>人数</td>
       <td>封面人物</td>
       <td>封面话题</td>
-      <td></td>
       <td>备注</td>
       <td>"性别（男1女2）"</td>
       <td>出生年份</td>
@@ -47,9 +46,7 @@
    <tr>
       <td></td>
    </tr>
-   <tr>
-      <td></td>
-   </tr>
+
 </table>
 
 - **封面人物**：包括单人刊、双人刊、多人刊上出现在封面上的所有人物
@@ -71,7 +68,7 @@
 
 我的主要叙述框架是这样的：
 
-首先1994-2019年各领域封面人物的总体情况-->结合历史背景环境解释不同时期出现不同分布的原因-->再次过程中引出人们价值观念的变化（消费主义、女性崛起等）-->回顾+总结
+首先1994-2019年各领域封面人物的总体情况-->结合历史背景环境解释不同时期出现不同分布的原因-->再次过程中引出人们价值观念的变化（消费主义、女性崛起等）-->总结+展望
 
 一方面，人物是我们窥视时代的窗口，当他们被呈现在封面上时，其本身也就具有了媒体宣传和引导的作用，亦即所谓“偶像”流变史的想法由来；另一方面，受到论文《话语变迁与偶像塑造：<人物>杂志封面人物的形象建构（1994-2016）》这篇论文的启发，我认为用“偶像”流变史的方式来反观时代变化是可用的也是可行的。
 
@@ -158,6 +155,30 @@
 
 我画了从1994年开始的横轴，隐去了纵轴——因为我认为详细具体到每一个数据并不是必要的，坐标轴只是一个标尺的作用，既然已经标出了关键点，那么纵轴再标注则显得重复累赘；此外，横纵轴交叉给人的感觉像是一个框，而我更喜欢看起来简洁的、“打开”的图表。
 
+
+## 五、参考资料（链接或文件）
+### *数据新闻*
+《那些数百万离开的人》https://www.zeit.de/politik/deutschland/2019-05/east-west-exodus-migration-east-germany-demography
+《一百年简史》https://pudding.cool/2018/12/brief-history/
+《SINGLES-DAY-ALIBABA》
+https://graphics.reuters.com/SINGLES-DAY-ALIBABA/0100B30E24T/index.html
+
+### *论文资料*
+[1][邵晶晶.《中国企业家》杂志封面人物报道特色（2016-2019)[J].新闻传播,2019(13):88-89.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=YWCB201913042&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEUvWEF3TCt3T3VPMEN2MGlkYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzA3NzF1RnkzbFZiek1QRHJJYkxHNEg5ak5ySTlCWm9SOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVI=)
+
+[2][张付伟. 话语变迁与偶像塑造：《人物》杂志封面人物的形象建构（1994-2016）[D].华南理工大学,2017.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201802&filename=1017855952.nh&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEUvWEF3TCt3T3VPMEN2MGlkYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDkyMzF1RnkzbFdydktWRjI2R2J1OUc5akpyWkViUElSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVI=)
+
+[3][王亿本.《时代》周刊封面中国人物的图像隐喻与政治修辞研究[J].西南民族大学学报(人文社科版),2018,39(02):160-163.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=XNZS201802023&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEUvWEF3TCt3T3VPMEN2MGlkYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjIyNDZPZVplUnVGeTNtVXIzT1BTUFJmYkc0SDluTXJZOUhaNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkw=)
+
+[4][王星宇. 《人物》（1980-2017）封面人物形象特点及变迁研究[D].内蒙古大学,2018.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201901&filename=1018714514.nh&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEUvWEF3TCt3T3VPMEN2MGlkYz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzA0MTF1RnkzbVU3cktWRjI2RnJTNUd0VE5xNUViUElSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVI=)
+
+[5][盛芳.转企改制背景下老牌杂志改版研究——以《人物》杂志为例[J].出版发行研究,2013(07):78-80.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2013&filename=CBFX201307025&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEV3WUpGeG5paDdtL2c5dEpIMD0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDAxNTkxRnJDVVJMT2VaZVJ1Rnk3aFU3ck5KaS9OZHJHNEg5TE1xSTlIWVlSOGVYMUx1eFlTN0RoMVQzcVRyV00=)
+
+[6][张环. 《人物》微信公众号封面人物报道研究[D].广西大学,2019.](https://kns-cnki-net.w.cuc.edu.cn/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1019215933.nh&uid=WEEvREcwSlJHSldRa1FhcEE0QVN2K0VLZEV3WUpGeG5paDdtL2c5dEpIMD0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDUxNTgzQVZGMjZGN0c1RzlqUHJKRWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZVplUnVGeTdoVkw=)
+
+## 六、用到的数据（链接或文件）
+
+见附件。
 
 
 
