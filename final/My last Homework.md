@@ -1,4 +1,5 @@
-# 期末作业过程描述
+# 期末作业
+<center>![长图](https://github.com/ChenM-7/CM-task/blob/master/final/%E9%95%BF%E5%9B%BE-3.jpg)</center>
 ## 一、选题想法
 最初的灵感来源是两篇数据新闻：
 
